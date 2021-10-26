@@ -1,0 +1,6 @@
+﻿1) EntityFramework is a service supported by Microsoft.
+2) EntityFramework is an ORM(Object Raltional Mapping) working LINQ based.
+3) The main purpose of this Framework is manupulating the data in the table and forcing the table act like an Class...
+So the LINQ functions reach the DataBase and allow us to use data easily...
+4)ORM creates a relationship between Project clasess and DataTables Of SQL Source
+5)Allow to use `NuGet` Packeges

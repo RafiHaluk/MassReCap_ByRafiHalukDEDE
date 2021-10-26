@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql   go to this raw file and copy all(Microsoft).
+Open your IDE which is which and choose `SQL Server Object Explorer` from `View` selection from the topbar.
+Create a new query from SQL Server 
+Paste all the lines that you have been copied and Execute.
+Refresh the server, you`re good to go.
